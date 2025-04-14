@@ -1,10 +1,12 @@
 # Greyt
 
+<br/>
+
 > "In the midst of chaos, there is also opportunity." - Sun Tzu
 
-Hey im grey! a goofy lil guy that makes random stuff for fun.
-
 <br/>
+
+Hey im grey! a goofy lil guy that makes random stuff for fun.
 
 - Most useful project i made - [Ranpaper](https://github.com/Gr3yt/ranpaper/)
 - I use Arch Linux - Hyprland
