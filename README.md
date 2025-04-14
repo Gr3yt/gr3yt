@@ -12,8 +12,6 @@ Hey im grey! a goofy lil guy that makes random stuff for fun.
 - I use Arch Linux - Hyprland
 - My Dotfiles - [Dotfiles](https://github.com/Gr3yt/mydotfiles/)
 
-<br/>
-
 ## Languages
 
 These are the languages that i know.
