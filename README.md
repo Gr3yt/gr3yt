@@ -7,10 +7,7 @@
 <br/>
 
 Hey im grey! a goofy lil guy that makes random stuff for fun.
-
-- Most useful project i made - [Ranpaper](https://github.com/Gr3yt/ranpaper/)
-- I use Arch Linux - Hyprland
-- My Dotfiles - [Dotfiles](https://github.com/Gr3yt/mydotfiles/)
+I use Arch Linux - Hyprland
 
 ## Languages
 
@@ -20,13 +17,13 @@ These are the languages that i know.
 
 - [x] English
 - [x] Polish
-- [ ] German
+- [ ] French (gonna fail these GCSEs watch)
 
 ### Programming
 
 - [x] Python
 - [x] Bash
-- [x] JavaScript (sadly)
+- [x] JavaScript (barely)
 - [ ] Java
 - [ ] C
 - [ ] Rust
